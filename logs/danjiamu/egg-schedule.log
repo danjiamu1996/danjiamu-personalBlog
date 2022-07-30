@@ -1,0 +1,12 @@
+2022-07-30 11:38:42,950 INFO 72696 [Timer] /Users/weizhang/Desktop/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 60677053ms at 2022-07-31 04:30:00.003
+2022-07-30 11:38:42,950 INFO 72696 [Timer] /Users/weizhang/Desktop/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 44477050ms at 2022-07-31 00:00:00.000
+2022-07-30 11:38:42,950 INFO 72696 [Timer] /Users/weizhang/Desktop/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 44478050ms at 2022-07-31 00:00:01.000
+2022-07-30 11:38:42,837 INFO 72702 [egg-schedule]: register schedule /Users/weizhang/Desktop/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-07-30 11:38:42,837 INFO 72702 [egg-schedule]: register schedule /Users/weizhang/Desktop/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-07-30 11:38:42,837 INFO 72702 [egg-schedule]: register schedule /Users/weizhang/Desktop/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-07-30 11:49:25,270 INFO 2164 [Timer] /Users/weizhang/Desktop/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 60034732ms at 2022-07-31 04:30:00.002
+2022-07-30 11:49:25,270 INFO 2164 [Timer] /Users/weizhang/Desktop/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 43834730ms at 2022-07-31 00:00:00.000
+2022-07-30 11:49:25,270 INFO 2164 [Timer] /Users/weizhang/Desktop/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 43835730ms at 2022-07-31 00:00:01.000
+2022-07-30 11:49:25,190 INFO 2165 [egg-schedule]: register schedule /Users/weizhang/Desktop/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-07-30 11:49:25,190 INFO 2165 [egg-schedule]: register schedule /Users/weizhang/Desktop/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-07-30 11:49:25,190 INFO 2165 [egg-schedule]: register schedule /Users/weizhang/Desktop/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js

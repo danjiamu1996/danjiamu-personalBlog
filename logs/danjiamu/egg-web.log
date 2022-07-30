@@ -1,0 +1,28 @@
+2022-07-30 11:38:42,812 INFO 72702 [egg:logger] init all loggers with options: {"dir":"/Users/weizhang/Desktop/egg-example/logs/danjiamu","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"danjiamu-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-07-30 11:38:42,838 INFO 72702 [egg-multipart] stream mode enable
+2022-07-30 11:38:42,909 INFO 72702 [egg-static] starting static serve /public/ -> /Users/weizhang/Desktop/egg-example/app/public
+2022-07-30 11:38:42,912 INFO 72702 [egg-security] use csrf middleware
+2022-07-30 11:38:42,913 INFO 72702 [egg-security] use methodnoallow middleware
+2022-07-30 11:38:42,913 INFO 72702 [egg-security] use noopen middleware
+2022-07-30 11:38:42,913 INFO 72702 [egg-security] use nosniff middleware
+2022-07-30 11:38:42,914 INFO 72702 [egg-security] use xssProtection middleware
+2022-07-30 11:38:42,914 INFO 72702 [egg-security] use xframe middleware
+2022-07-30 11:38:42,915 INFO 72702 [egg-security] use dta middleware
+2022-07-30 11:38:42,915 INFO 72702 [egg-security] compose 7 middlewares into one security middleware
+2022-07-30 11:38:42,926 INFO 72702 [egg:core] dump config after load, 5ms
+2022-07-30 11:38:42,937 INFO 72702 [egg-watcher:application] watcher start success
+2022-07-30 11:38:42,944 INFO 72702 [egg:core] dump config after ready, 4ms
+2022-07-30 11:49:25,173 INFO 2165 [egg:logger] init all loggers with options: {"dir":"/Users/weizhang/Desktop/egg-example/logs/danjiamu","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"danjiamu-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-07-30 11:49:25,191 INFO 2165 [egg-multipart] stream mode enable
+2022-07-30 11:49:25,243 INFO 2165 [egg-static] starting static serve /public/ -> /Users/weizhang/Desktop/egg-example/app/public
+2022-07-30 11:49:25,245 INFO 2165 [egg-security] use csrf middleware
+2022-07-30 11:49:25,245 INFO 2165 [egg-security] use methodnoallow middleware
+2022-07-30 11:49:25,245 INFO 2165 [egg-security] use noopen middleware
+2022-07-30 11:49:25,245 INFO 2165 [egg-security] use nosniff middleware
+2022-07-30 11:49:25,245 INFO 2165 [egg-security] use xssProtection middleware
+2022-07-30 11:49:25,246 INFO 2165 [egg-security] use xframe middleware
+2022-07-30 11:49:25,246 INFO 2165 [egg-security] use dta middleware
+2022-07-30 11:49:25,246 INFO 2165 [egg-security] compose 7 middlewares into one security middleware
+2022-07-30 11:49:25,253 INFO 2165 [egg:core] dump config after load, 3ms
+2022-07-30 11:49:25,262 INFO 2165 [egg-watcher:application] watcher start success
+2022-07-30 11:49:25,266 INFO 2165 [egg:core] dump config after ready, 3ms

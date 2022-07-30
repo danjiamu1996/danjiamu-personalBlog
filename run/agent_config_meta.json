@@ -1,0 +1,302 @@
+{
+  "keys": "/Users/weizhang/Desktop/egg-example/config/config.default.js",
+  "middleware": "/Users/weizhang/Desktop/egg-example/config/config.default.js",
+  "session": {
+    "maxAge": "/Users/weizhang/Desktop/egg-example/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/weizhang/Desktop/egg-example/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/weizhang/Desktop/egg-example/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/weizhang/Desktop/egg-example/node_modules/egg-session/config/config.default.js",
+    "logValue": "/Users/weizhang/Desktop/egg-example/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/weizhang/Desktop/egg-example/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/weizhang/Desktop/egg-example/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/weizhang/Desktop/egg-example/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/weizhang/Desktop/egg-example/node_modules/egg-security/config/config.default.js",
+      "type": "/Users/weizhang/Desktop/egg-example/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/weizhang/Desktop/egg-example/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/weizhang/Desktop/egg-example/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/weizhang/Desktop/egg-example/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/weizhang/Desktop/egg-example/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/weizhang/Desktop/egg-example/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/weizhang/Desktop/egg-example/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/weizhang/Desktop/egg-example/node_modules/egg-security/config/config.default.js",
+      "supportedRequests": "/Users/weizhang/Desktop/egg-example/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/weizhang/Desktop/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/weizhang/Desktop/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/weizhang/Desktop/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/weizhang/Desktop/egg-example/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/weizhang/Desktop/egg-example/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/weizhang/Desktop/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/weizhang/Desktop/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/weizhang/Desktop/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/weizhang/Desktop/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/weizhang/Desktop/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/weizhang/Desktop/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/weizhang/Desktop/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/weizhang/Desktop/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/weizhang/Desktop/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/weizhang/Desktop/egg-example/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/weizhang/Desktop/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/weizhang/Desktop/egg-example/node_modules/egg-security/config/config.default.js",
+      "ipExceptionList": "/Users/weizhang/Desktop/egg-example/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/weizhang/Desktop/egg-example/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/weizhang/Desktop/egg-example/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/weizhang/Desktop/egg-example/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/weizhang/Desktop/egg-example/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/weizhang/Desktop/egg-example/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/weizhang/Desktop/egg-example/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/weizhang/Desktop/egg-example/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/weizhang/Desktop/egg-example/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/weizhang/Desktop/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/weizhang/Desktop/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/weizhang/Desktop/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/weizhang/Desktop/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/weizhang/Desktop/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/weizhang/Desktop/egg-example/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/weizhang/Desktop/egg-example/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/weizhang/Desktop/egg-example/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/weizhang/Desktop/egg-example/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/weizhang/Desktop/egg-example/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/weizhang/Desktop/egg-example/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/weizhang/Desktop/egg-example/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/weizhang/Desktop/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/weizhang/Desktop/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/weizhang/Desktop/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/weizhang/Desktop/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/weizhang/Desktop/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/weizhang/Desktop/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/weizhang/Desktop/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/weizhang/Desktop/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/weizhang/Desktop/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/weizhang/Desktop/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "allowArrayField": "/Users/weizhang/Desktop/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/weizhang/Desktop/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/weizhang/Desktop/egg-example/node_modules/egg-multipart/config/config.default.js",
+      "disable": "/Users/weizhang/Desktop/egg-example/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/weizhang/Desktop/egg-example/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/weizhang/Desktop/egg-example/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/weizhang/Desktop/egg-example/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/weizhang/Desktop/egg-example/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/weizhang/Desktop/egg-example/node_modules/egg-development/config/config.default.js",
+    "overrideIgnore": "/Users/weizhang/Desktop/egg-example/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/weizhang/Desktop/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/weizhang/Desktop/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/weizhang/Desktop/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/weizhang/Desktop/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/weizhang/Desktop/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/weizhang/Desktop/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/weizhang/Desktop/egg-example/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/weizhang/Desktop/egg-example/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/weizhang/Desktop/egg-example/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/weizhang/Desktop/egg-example/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/weizhang/Desktop/egg-example/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/weizhang/Desktop/egg-example/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/weizhang/Desktop/egg-example/node_modules/egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/weizhang/Desktop/egg-example/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/weizhang/Desktop/egg-example/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/weizhang/Desktop/egg-example/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/weizhang/Desktop/egg-example/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/weizhang/Desktop/egg-example/node_modules/egg-view/config/config.default.js"
+  },
+  "env": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+  "name": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "version": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "description": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "private": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "egg": {
+      "declarations": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "dependencies": {
+      "egg": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "autod": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+      "autod-egg": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+      "egg-ci": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+      "eslint": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "scripts": {
+      "start": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+      "stop": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+      "dev": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+      "debug": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+      "test": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+      "test-local": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+      "cov": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+      "lint": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+      "ci": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+      "autod": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+      "type": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+      "url": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "license": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "cacheControl": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "strict": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+      "depth": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "env": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "level": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "enablePerformanceTimer": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "logging": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+      "port": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/weizhang/Desktop/egg-example/node_modules/egg/config/config.default.js"
+}
